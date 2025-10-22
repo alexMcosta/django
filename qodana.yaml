@@ -11,4 +11,4 @@ include:
 exclude:
   - name: All
     paths:
-      - "django/**"
+      - django/**
